@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc60fb88-b18e-4e6c-8fae-8b8d3a361d04" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Madalena.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MilkShake.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_/css/images/menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_/css/jquery.mosaic.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_/js/jquery.mosaic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/LOGORED2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/backy3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/backy54.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bactobac.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/blue-paint.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/capital_paintball_dublin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cheapest_paintball.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/corporate_paintball.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/email.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/email.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/facebook_team_paintball.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ggimg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/indoor_reball_dublin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/paintback.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/paintball_dublin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/paintball_twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/prices/cheapest_paintball_dublin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/prices/paint_refills.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/prices/paintball_cost.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/prices/paintball_for_students.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/reball_ireland.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/reball_prices.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/slides/back1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/slides/back2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/slides/back3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/slides/back4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/slides/back5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/slides/slide1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/slides/slide10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/slides/slide2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/slides/slide3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/slides/slide4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/slides/slide5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/slides/slide6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/slides/slide7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/slides/slide8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/slides/slide9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/spalsh2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/splash1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/splash3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/splash4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/splash5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/splash6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/stag_paintball.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/woodsball_paintball_dublin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/you_tube_paintball.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/output.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/output.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/output.webm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B00082567-Crosbie-Assignment2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/B00082567-Crosbie-Assignment2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_/css/jquery.mobile.css" beforeDir="false" afterPath="$PROJECT_DIR$/_/css/jquery.mobile.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_/css/mystyles.css" beforeDir="false" afterPath="$PROJECT_DIR$/_/css/mystyles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_/js/jquery-1.10.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_/js/jquery-1.9.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_/js/jquery.mobile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_/js/jquery.mousewheel-3.0.6.pack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_/js/myscript.js" beforeDir="false" afterPath="$PROJECT_DIR$/_/js/myscript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helpers/fancybox_buttons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/helpers/jquery.fancybox-buttons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/helpers/jquery.fancybox-buttons.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/helpers/jquery.fancybox-media.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/helpers/jquery.fancybox-thumbs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/helpers/jquery.fancybox-thumbs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Allwatherpitch.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Pavillion.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/back2.2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/back2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/back3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/back3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/background_viewsource.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/itb_logo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/itblogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/light_bulb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mnml.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/video_edgeui.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/video_toggle.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/video_uploader.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/video_whatisedge.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/viewsourcelogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/vs_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <ignored path="B00082567-Crosbie-Assignment2.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1837131534">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.29" value="2" />
+          <entry key="project.open.time.30" value="2" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="20" />
+          <entry key="gif" value="2" />
+          <entry key="html" value="5" />
+          <entry key="jpg" value="16" />
+          <entry key="js" value="19" />
+          <entry key="png" value="33" />
+          <entry key="rnc" value="2" />
+          <entry key="scss" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="20" />
+          <entry key="HTML" value="5" />
+          <entry key="Image" value="51" />
+          <entry key="JavaScript" value="19" />
+          <entry key="RNG Compact" value="2" />
+          <entry key="SCSS" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="3126" />
+          <entry key="html" value="4723" />
+          <entry key="js" value="387" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="3126" />
+          <entry key="HTML" value="4723" />
+          <entry key="JavaScript" value="387" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="B00082567-Crosbie-Assignment2" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4760">
+              <caret line="278" column="21" lean-forward="true" selection-start-line="278" selection-start-column="21" selection-end-line="278" selection-end-column="21" />
+              <folding>
+                <element signature="n#style#0;n#h1#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#form#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h1#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h1#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_/css/mystyles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="172" column="34" selection-start-line="172" selection-start-column="34" selection-end-line="172" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_/js/myscript.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>c</find>
+      <find>ui-body-d</find>
+      <find>na</find>
+      <find>info</find>
+      <find>side-</find>
+      <find>header</find>
+      <find>ui-btn</find>
+      <find>.ui-bar-a</find>
+      <find>ui-btn-inner</find>
+      <find>ui-hea</find>
+      <find>flip</find>
+      <find>courses</find>
+      <find>allCover</find>
+      <find>showHeadImg</find>
+      <find>foo</find>
+      <find>&lt;span class=&quot;mainQ&quot; hidden&gt;</find>
+      <find>&lt;span id=&quot;mainQ&quot; hidden&gt;</find>
+      <find>class=&quot;qShow&quot;</find>
+      <find>intro-spec</find>
+      <find>side-categories</find>
+      <find>z-index</find>
+      <find>footer</find>
+      <find>questions</find>
+      <find>faqul</find>
+      <find>Images</find>
+      <find>article</find>
+      <find>data-icon=&quot;action-white&quot;</find>
+      <find>myBlurFunction</find>
+      <find>Navbar__ToggleShow</find>
+      <find>navbar</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>contact</replace>
+      <replace>fade</replace>
+      <replace>&lt;span id=&quot;mainQ&quot; hidden&gt;</replace>
+      <replace>&lt;span id=&quot;mainQ&quot;&gt;</replace>
+      <replace>id=&quot;qShow1&quot;</replace>
+      <replace>Photos</replace>
+      <replace>data-icon=&quot;info&quot;</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/_/css/jquery.mobile.css" />
+        <option value="$PROJECT_DIR$/_/js/playground.js" />
+        <option value="$PROJECT_DIR$/_/js/jquery.mhead.js" />
+        <option value="$PROJECT_DIR$/_/css/hamburgers.css" />
+        <option value="$PROJECT_DIR$/_/css/font-awesome.min..js" />
+        <option value="$PROJECT_DIR$/_/js/font-awesome.min.js" />
+        <option value="$PROJECT_DIR$/_/css/font-awesome.min.css" />
+        <option value="$PROJECT_DIR$/_/css/style.css" />
+        <option value="$PROJECT_DIR$/_/js/myscript.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/_/css/mystyles.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Angular-2-JS-Architecture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Angular-2-JS-Architecture" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Angular-2-JS-Architecture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Angular-2-JS-Architecture" type="462c0819:PsiDirectoryNode" />
+              <item name="_" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Angular-2-JS-Architecture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Angular-2-JS-Architecture" type="462c0819:PsiDirectoryNode" />
+              <item name="_" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Angular-2-JS-Architecture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Angular-2-JS-Architecture" type="462c0819:PsiDirectoryNode" />
+              <item name="_" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539029411129" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Personal\Paintball Web\Angular-2-JS-Architecture\images" />
+      <recent name="D:\Personal\Paintball Web\Angular-2-JS-Architecture\_\css\images" />
+      <recent name="D:\Personal\Paintball Web\Angular-2-JS-Architecture\_\js" />
+      <recent name="D:\Personal\Paintball Web\Angular-2-JS-Architecture\images\slides" />
+      <recent name="D:\Personal\Paintball Web\Angular-2-JS-Architecture\video" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Personal\Paintball Web\Angular-2-JS-Architecture\_\js" />
+      <recent name="D:\Personal\Paintball Web\Angular-2-JS-Architecture\_\css" />
+      <recent name="D:\Personal\Paintball Web\Angular-2-JS-Architecture\_\scss" />
+      <recent name="D:\Personal\Paintball Web\Angular-2-JS-Architecture\_" />
+      <recent name="D:\Personal\Paintball Web\Angular-2-JS-Architecture\video" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Angular-2-JS-Architecture/jquery.mmenu/index.html">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc60fb88-b18e-4e6c-8fae-8b8d3a361d04" name="Default" comment="" />
+      <created>1479794521042</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1479794521042</updated>
+      <workItem from="1479794527391" duration="6665000" />
+      <workItem from="1479802392778" duration="1255000" />
+      <workItem from="1480420944445" duration="3390000" />
+      <workItem from="1480424818521" duration="24000" />
+      <workItem from="1492600779018" duration="236000" />
+      <workItem from="1538414337694" duration="2830000" />
+      <workItem from="1538474721978" duration="10963000" />
+      <workItem from="1538650494155" duration="42725000" />
+      <workItem from="1538983737734" duration="14960000" />
+      <workItem from="1539001422993" duration="290000" />
+      <workItem from="1539022686876" duration="6147000" />
+      <workItem from="1540030020192" duration="5092000" />
+      <workItem from="1540193161226" duration="2200000" />
+      <workItem from="1540200375811" duration="3402000" />
+      <workItem from="1540207924046" duration="8396000" />
+      <workItem from="1540308699018" duration="1489000" />
+      <workItem from="1540313826813" duration="695000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="110759000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12750264" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Nl-Palette" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Palette&#9;" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32939914" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32939914" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="JSON Formatter" order="10" weight="0.32890365" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Designer" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Properties" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/images/itb_logo.gif" />
+    <entry file="file://$PROJECT_DIR$/images/itblogo.png" />
+    <entry file="file://$PROJECT_DIR$/images/light_bulb.png" />
+    <entry file="file://$PROJECT_DIR$/images/mnml.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/paintball_dublin.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Pavillion.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/you_tube_paintball.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/woodsball_paintball_dublin.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/stag_paintball.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/reball_ireland.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/paintball_twitter.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/ggimg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/corporate_paintball.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/splash4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/back3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/backy3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/backy54.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/splash3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/splash1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/spalsh2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/js/jquery.mosaic.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/js/jquery.googlemap.js" />
+    <entry file="file://$PROJECT_DIR$/_/css/jquery.mosaic.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="56" column="6" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/block.rnc" />
+    <entry file="file://$PROJECT_DIR$/_/js/jquery.mobile-1.4.5.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/js/jquery.mobile.js" />
+    <entry file="file://$PROJECT_DIR$/_/css/images/icons-36-black.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/css/images/icons-36-white.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/slides/back1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/prices/paintball_cost.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/js/gmaps.js" />
+    <entry file="file://$PROJECT_DIR$/_/css/jquery.mobile.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="2253" column="14" lean-forward="true" selection-start-line="2253" selection-start-column="14" selection-end-line="2253" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery.fancybox.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="96" column="21" selection-start-line="96" selection-start-column="21" selection-end-line="96" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helpers/jquery.fancybox-buttons.css" />
+    <entry file="file://$PROJECT_DIR$/node_modules/jquery.mmenu/index.html" />
+    <entry file="file://$PROJECT_DIR$/_/js/playground.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret column="571" selection-start-column="571" selection-end-column="571" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/js/jquery.mhead.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/css/demo.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/css/hamburgers.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="7" column="21988" selection-start-line="7" selection-start-column="21988" selection-end-line="7" selection-end-column="21988" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/css/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/js/font-awesome.min.js" />
+    <entry file="file://$USER_HOME$/OneDrive/Desktop/sliding-navigation-menu/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/fontselect-default.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/fontselect-alternate.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/scss/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-714">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/js/myscript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4760">
+          <caret line="278" column="21" lean-forward="true" selection-start-line="278" selection-start-column="21" selection-end-line="278" selection-end-column="21" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#form#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/css/mystyles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="172" column="34" selection-start-line="172" selection-start-column="34" selection-end-line="172" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

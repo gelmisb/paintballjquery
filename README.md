@@ -1,2 +1,2 @@
-# paintballjquery
-Paintball web application (mobile version) owned by http://dublinpaintball.ie/
+# Angular-2-JS-Architecture
+Angular 2 JS Architecture - project to demonstrate skills with AngularJS2

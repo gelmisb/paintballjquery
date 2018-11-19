@@ -1,0 +1,915 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+
+	<title>Capital Paintball</title>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+    <!-- Javascript imports -->
+	<script src="_/js/jquery.js"></script>
+    <script src="_/js/myscript.js"></script>
+    <script src="_/js/jquery.mosaic.js"></script>
+
+    <!-- CSS imports -->
+    <link rel="stylesheet" href="_/css/jquery.mosaic.css" >
+    <script src="http://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.js"></script>
+
+    <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.css" />
+
+
+
+    <link rel="stylesheet" href="_/css/mystyles.css"/>
+
+
+    <!-- Font imports -->
+    <link href="https://fonts.googleapis.com/css?family=Syncopate:700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+
+    <!-- Google JS imports-->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBlB6UEWXmrI1q5SkIhSLG0chS0RGDjQvE&callback=initMap"
+            async defer></script>
+
+
+</head>
+
+
+<body >
+
+	<div id="home"
+		data-role="page"
+		data-theme="b"
+		data-title="Home">
+
+
+
+            <div id="intro">
+
+                <div id="main_container">
+
+                    <div class="fullscreen-bg">
+                        <video loop muted autoplay  class="fullscreen-bg__video">
+                            <source src="video/output.mp4" type="video/mp4">
+
+                        </video>
+                    </div>
+
+
+                    <a href="#"  id="contentHead">
+                        <div data-role="content" id="contentH">
+                            <img src="images/paintball_dublin.png">
+                        </div>
+                    </a>
+
+                    <p id="intro-spec" style="margin-top: 0; padding-top: 0;" >
+
+                        <img src="images/capital_paintball_dublin.png" width="100%" style="margin-bottom: 5%;">
+
+
+                        We are the closest paintball centre to Dublin city. Our site offers great paintball fields, equipment and service. We want you too feel like a pro paintballer, with our set up and experience we are confident in doing just that. Set up by Professional paintballers we know what makes a good day out and are committed to bringing the best paintball experience to all our customers.
+
+                    </p>
+
+
+                    <p >
+                        We have a choice of two fantastic fields on offer, one outdoor paintball field for some fast paced action using traditional paintballs. One indoor field using reusable paintballs, all the fun and none of the mess. Our indoor field is 100% astro turf so you can run and slide and shoot as much as you like.
+
+
+                    </p>
+
+                    <div id="myFoot">
+                        <footer>
+                            <ul>
+                                <li><a href="http://www.facebook.com/dublinpaintball.ie" target="_blank" ><img src="images/facebook_team_paintball.png" alt="Facebook" title="Join us on Facebook"/></a></li>
+                                <li><a href="http://www.youtube.com/capitalpaintball" target="_blank"><img src="images/you_tube_paintball.png" alt="YouTube" title="Follow us on YouTube"/></a></li>
+                                <li><a href="http://www.twitter.com/dublinpaintball" target="_blank" ><img src="images/paintball_twitter.png" alt="Twitter" title="Follow us on Twitter"/></a></li>
+                            </ul>
+                        </footer>
+                    </div>
+
+                </div><!-- /content -->
+            </div>
+
+                <div data-role="footer"
+                     data-position="fixed"
+                     data-theme="e"
+                     data-id="vs_footer">
+
+
+
+                    <div data-role="navbar">
+                        <ul>
+
+                            <li>
+                                <a href="#home"
+                                   data-transition="fade"
+                                   data-role="button"
+                                   data-icon="home"
+                                >Home</a>
+                            </li>
+
+                            <li>
+                                <a href="#prices"
+                                   data-transition="fade"
+                                   data-role="button"
+                                   data-icon="tag"
+                                >Prices</a>
+                            </li>
+
+                            <li>
+                                <a href="#images"
+                                   data-transition="fade"
+                                   data-role="button"
+                                   data-icon="grid"
+                                >Photos</a>
+                            </li>
+
+
+                            <li>
+                                <a href="#faq"
+                                   data-transition="fade"
+                                   data-role="button"
+                                   data-icon="info"
+                                >FAQ</a>
+                            </li>
+
+
+                            <li>
+                                <a href="#contact"
+                                   data-transition="fade"
+                                   data-role="button"
+                                   data-icon="phone"
+                                >Contact</a>
+                            </li>
+
+                        </ul>
+                    </div><!-- navbar -->
+
+            </div><!-- footer -->
+
+
+    </div><!-- footer -->
+
+
+
+
+
+
+
+
+	<!-- Page: Prices -->
+	<div id="prices"
+		data-theme="e"
+		data-role="page"
+		data-title="Prices">
+
+
+		<div
+            data-theme="d"
+            data-role="content"
+            id="allCover"
+            >
+
+            <h1 style="font-size: 26px; text-align: center; ">Prices</h1>
+
+            <img id="pricesBack1" src="images/cheapest_paintball.png">
+
+
+
+
+            <div id="showHeadImg">
+
+                <img id="pricesBack" src="images/reball_prices.png">
+
+                <div id="flexIt">
+
+                    <ul id="listImg">
+
+                        <li><a href="#" onclick="payPrice('50.10')" ><img src="images/prices/paintball_cost.png"></a> </li>
+
+                        <li><a href="#" onclick="payPrice('30.00')"><img src="images/prices/paintball_for_students.png"></a> </li>
+
+                        <li><a href="#" onclick="payPrice('10.00')"><img src="images/prices/cheapest_paintball_dublin.png"></a> </li>
+
+                    </ul>
+
+
+
+                    <!--<div id="paypal-button-container"></div>-->
+                    <!--<script src="https://www.paypalobjects.com/api/checkout.js"></script>-->
+                    <!--<script>-->
+
+                        <!--function payPrice(price) {-->
+
+                            <!--// Render the PayPal button-->
+
+                            <!--paypal.Button.render({-->
+
+                                <!--// Set your environment-->
+
+                                <!--env: 'sandbox', // sandbox | production-->
+
+                                <!--// Specify the style of the button-->
+
+                                <!--style: {-->
+                                    <!--label: 'checkout',-->
+                                    <!--size:  'small',    // small | medium | large | responsive-->
+                                    <!--shape: 'pill',     // pill | rect-->
+                                    <!--color: 'gold'      // gold | blue | silver | black-->
+                                <!--},-->
+
+                                <!--// PayPal Client IDs - replace with your own-->
+                                <!--// Create a PayPal app: https://developer.paypal.com/developer/applications/create-->
+
+                                <!--client: {-->
+                                    <!--sandbox:    'AZDxjDScFpQtjWTOUtWKbyN_bDt4OgqaF4eYXlewfBP4-8aqX3PiV8e1GWU6liB2CUXlkA59kJXE7M6R',-->
+                                    <!--production: '<insert production client id>'-->
+                                <!--},-->
+
+                                <!--// Show the buyer a 'Pay Now' button in the checkout flow-->
+                                <!--commit: true,-->
+
+                                <!--// Wait for the PayPal button to be clicked-->
+
+                                <!--payment: function(data, actions) {-->
+                                    <!--return actions.payment.create({-->
+                                        <!--transactions: [-->
+                                            <!--{-->
+                                                <!--amount: { total: price, currency: 'EUR' }-->
+                                            <!--}-->
+                                        <!--]-->
+                                    <!--});-->
+                                <!--},-->
+
+                                <!--// Wait for the payment to be authorized by the customer-->
+
+                                <!--onAuthorize: function(data, actions) {-->
+                                    <!--return actions.payment.execute().then(function() {-->
+                                        <!--window.alert('Payment Complete!');-->
+                                    <!--});-->
+                                <!--}-->
+
+                            <!--}, '#paypal-button-container');-->
+
+                        <!--}-->
+                    <!--</script>-->
+
+                </div>
+
+
+                <img src="images/prices/paint_refills.png">
+
+            </div>
+
+
+
+
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" id="paypal_bottom" style="align-items: center; text-align: center; align-content: center;">
+            <input type="hidden" name="cmd" value="_s-xclick">
+            <input type="hidden" name="hosted_button_id" value="KBPKGDTG6BD42">
+            <input type="hidden" name="on0" value="Package">
+            Choose Package:
+            <select name="os0">
+                <option value="Bronze">Bronze €10</option>
+                <option value="Silver">Silver €30</option>
+                <option value="Gold">Gold €50</option>
+                <option value="Reball's 1hr">Reball's 1hr €30</option>
+                <option value="Reball's 2hr">Reball's 2hr €55</option>
+            </select>
+            <input type="hidden" name="currency_code" value="EUR">
+            <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+            <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+
+
+        </form>
+        </div><!-- content -->
+
+
+		<div data-role="footer"
+			data-position="fixed"
+			data-theme="b"
+			data-id="vs_footer">
+
+			<div data-role="navbar">
+				<ul>
+
+                    <li>
+                        <a href="#home"
+                           data-transition="fade"
+                           data-role="button"
+                           data-icon="home"
+                        >Home</a>
+                    </li>
+
+                    <li>
+                        <a href="#"
+                           data-transition="fade"
+                           data-role="button"
+                           data-icon="tag"
+                        >Prices</a>
+                    </li>
+
+                    <li>
+                        <a href="#images"
+                           data-transition="fade"
+                           data-role="button"
+                           data-icon="grid"
+                        >Photos</a>
+                    </li>
+
+
+                    <li>
+                        <a href="#faq"
+                           data-transition="fade"
+                           data-role="button"
+                           data-icon="info"
+                        >FAQ</a>
+                    </li>
+
+
+                    <li>
+                        <a href="#contact"
+                           data-transition="fade"
+                           data-role="button"
+                           data-icon="phone"
+                        >Contact</a>
+                    </li>
+
+				</ul>
+			</div><!-- navbar -->
+
+
+		</div><!-- footer -->
+
+
+	</div><!-- page -->
+
+
+
+
+
+
+
+
+
+
+	<!-- Page: Photos -->
+	<div id="images"
+		data-role="page"
+		data-title="Photos">
+
+		<div data-role="content" style="background: rgba(0, 0, 0, 0.8);">
+
+            <h1 style="font-size: 26px; text-align: center; padding-bottom: 10%;">Photos</h1>
+
+            <div id="mosaic" >
+                <img class="lep1" src="images/slides/back1.jpg"  >
+                <img class="lep1" src="images/slides/back2.jpg"  >
+                <img class="lep1" src="images/slides/back3.jpg"  >
+                <img class="lep1" src="images/slides/back4.jpg" data-high-res-image-src="high-slide4.jpg"  >
+                <img class="lep1" src="images/slides/back5.jpg" data-high-res-image-src="high-slide5.jpg"  >
+                <img class="lep1" src="images/slides/slide1.jpg" data-high-res-image-src="high-slide6.jpg" >
+                <img class="lep1" src="images/slides/slide2.jpg" data-high-res-image-src="high-slide7.jpg" >
+                <img class="lep1" src="images/slides/slide3.jpg" data-high-res-image-src="high-slide8.jpg" >
+                <img class="lep1" src="images/slides/slide4.jpg" data-high-res-image-src="high-slide9.jpg" >
+                <img class="lep1" src="images/slides/slide5.jpg" data-high-res-image-src="high-slide10.jpg" >
+                <img class="lep1" src="images/slides/slide6.jpg" data-high-res-image-src="high-slide11.jpg" >
+                <img class="lep1" src="images/slides/slide7.jpg" data-high-res-image-src="high-slide12.jpg" >
+                <img class="lep1" src="images/slides/slide8.jpg" data-high-res-image-src="high-slide13.jpg" >
+                <img class="lep1" src="images/slides/slide9.jpg" data-high-res-image-src="high-slide14.jpg" >
+                <img class="lep1" src="images/slides/slide10.jpg" data-high-res-image-src="high-slide15.jpg" >
+
+
+                <script type="text/javascript">
+                    $("#images").focusin(function() {
+                        showImages();
+                    });
+                </script>
+
+            </div>
+
+        </div>
+
+
+
+
+		<div data-role="footer"
+			data-position="fixed"
+             data-theme="b"
+             data-id="vs_footer">
+
+			<div data-role="navbar">
+
+				<ul>
+
+                    <li>
+                        <a href="#home"
+                           data-transition="fade"
+                           data-role="button"
+                           data-icon="home"
+                        >Home</a>
+                    </li>
+
+                    <li>
+                        <a href="#prices"
+                           data-transition="fade"
+                           data-role="button"
+                           data-icon="tag"
+                        >Prices</a>
+                    </li>
+
+                    <li>
+                        <a href="#images"
+                           data-transition="fade"
+                           data-role="button"
+                           data-icon="grid"
+                        >Photos</a>
+                    </li>
+
+
+                    <li>
+                        <a href="#faq"
+                           data-transition="fade"
+                           data-role="button"
+                           data-icon="info"
+                        >FAQ</a>
+                    </li>
+
+
+                    <li>
+                        <a href="#contact"
+                           data-transition="fade"
+                           data-role="button"
+                           data-icon="phone"
+                        >Contact</a>
+                    </li>
+
+				</ul>
+
+            </div><!-- navbar -->
+
+		</div><!-- footer -->
+
+
+    </div>
+
+
+    <div id="faq"
+         data-role="page"
+         data-title="FAQ">
+
+
+        <div
+            data-role="content"
+            id="questions">
+
+            <h1 style="font-size: 26px; text-align: center; padding-bottom: 10%;">Frequently asked questions</h1>
+                        <ul id="faqul">
+                            <li>
+                                <h3 id="qShow1">What is Paintball?</h3>
+                                <span id="mainQ1" hidden>
+                                    <p>
+                                        Paintball is one of the fastest growing extreme sports in the world. Players are split into two teams were they try to eliminate each other from the game by shooting coloured paintballs at each other from paintball markers&#40;gun&#41;.
+                                    </p>
+                                </span>
+                            </li>
+
+                            <li>
+                                <h3 id="qShow2">What is Speedball?</h3>
+                                <span id="mainQ2" hidden>
+                                    <p>
+                                        Is the version of paintball we play at Capital Paintball in which the playing field is composed of bunkers, of the same location and number on each side of the field, that provide an equal playing field for each team competing. It was created in this way to give a better format for competitive paintball, both in playing and viewing the games.
+                                    </p>
+                                </span>
+                            </li>
+
+
+                            <li>
+                                <h3 id="qShow3">What is Reball?</h3>
+                                <span id="mainQ3" hidden>
+                                    <p>
+                                        Reball is the same as Speedball in every way except players shoot reusable paintballs at each other. Reballs act the same way as paintballs but they do not break and leave a paint splat. This makes it a clean version of paintball perfect for indoor games.
+                                    </p>
+                                </span>
+                            </li>
+
+                            <li>
+                                <h3 id="qShow4">Does it hurt?</h3>
+                                <span id="mainQ4" hidden>
+                                    <p>
+                                        No, not enough to stop you enjoying the game. The paint pellets break on impact and there may be a pinch which last only a few seconds.
+                                    </p>
+                                </span>
+                            </li>
+
+                            <li>
+                                <h3 id="qShow5">Is it safe?</h3>
+
+                                <span id="mainQ5" hidden>
+                                    <p>
+                                        Yes, we supply everyone with top of the range safety masks and equipment. Experienced staff will always be on hand to marshal the games making sure every stays safe and has fun.
+                                    </p>
+                                </span>
+                            </li>
+
+                            <li>
+                                <h3 id="qShow6">What clothing do I wear?</h3>
+                                <span id="mainQ6" hidden>
+                                    <p>
+                                        Something old that you wont worry too much about. Wear old, sturdy footwear and bring a spare pair to change into afterwards. We provide overalls to wear over you clothes as well.
+                                    </p>
+                                </span>
+                            </li>
+
+                            <li>
+                                <h3 id="qShow7">Can I watch my group play?</h3>
+                                <span id="mainQ7" hidden>
+                                    <p>
+                                        If you are not up for playing yourself you are free to spectate your group. Speedball is meant for spectators and is easy to view the entire field from behind the saftey netting.
+                                    </p>
+                                </span>
+                            </li>
+
+
+                            <li>
+                                <h3 id="qShow8">How many players do I need to book?</h3>
+                                <span id="mainQ8" hidden>
+                                    <p>
+                                        You need a minimum of 8 players to make a booking, If you cant get together that many contact us and we can slot you into another game. We will hold a number of solo player games for people to jump in and play with others.
+                                    </p>
+                                </span>
+                            </li>
+
+                        </ul>
+
+                        <br/>
+                        <p style="padding-top: 10%; text-align: left;">
+                            Any other questions please dont hesitate to contact us by phone <a href="tel:085 8872665">  085 8872665</a>  or email at <a href="mailto:info@dublinpaintball.ie">info@dublinpaintball.ie</a>
+                            and we will respond straight away.
+                        </p>
+
+            <script type="text/javascript">
+
+
+                    $("#qShow1").click(function() {
+                        $('#mainQ1').toggle("slow");
+                    });
+
+                    $("#qShow2").click(function() {
+                        $('#mainQ2').toggle("slow");
+                    });
+
+                    $("#qShow3").click(function() {
+                        $('#mainQ3').toggle("slow");
+                    });
+
+                    $("#qShow4").click(function() {
+                        $('#mainQ4').toggle("slow");
+                    });
+
+                    $("#qShow5").click(function() {
+                        $('#mainQ5').toggle("slow");
+                    });
+
+                    $("#qShow6").click(function() {
+                        $('#mainQ6').toggle("slow");
+                    });
+
+                    $("#qShow7").click(function() {
+                        $('#mainQ7').toggle("slow");
+                    });
+
+                    $("#qShow8").click(function() {
+                        $('#mainQ8').toggle("slow");
+                    });
+
+            </script>
+
+
+
+        </div>
+
+        <div data-role="footer"
+             data-position="fixed"
+             data-theme="b"
+             data-id="vs_footer">
+            <div data-role="navbar">
+                <ul>
+                    <li>
+                        <a href="#home"
+                           data-transition="fade"
+                           data-role="button"
+                           data-icon="home"
+                        >Home</a>
+                    </li>
+
+                    <li>
+                        <a href="#prices"
+                           data-transition="fade"
+                           data-role="button"
+                           data-icon="tag"
+                        >Prices</a>
+                    </li>
+
+                    <li>
+                        <a href="#images"
+                           data-transition="fade"
+                           data-role="button"
+                           data-icon="grid"
+                        >Photos</a>
+                    </li>
+
+
+                    <li>
+                        <a href="#faq"
+                           data-transition="fade"
+                           data-role="button"
+                           data-icon="info"
+                        >FAQ</a>
+                    </li>
+
+
+                    <li>
+                        <a href="#contact"
+                           data-transition="fade"
+                           data-role="button"
+                           data-icon="phone"
+                        >Contact</a>
+                    </li>
+                </ul>
+            </div><!-- navbar -->
+        </div><!-- footer -->
+    </div>
+
+
+
+
+
+
+
+
+	<div id="contact"
+		data-role="page"
+		data-title="Contact">
+
+
+
+
+        <div data-role="content" id="contactContent">
+
+
+            <h1 style="font-size: 26px; text-align: center;"> Have any questions?</h1>
+
+
+            <h3 style="font-size: 20px; text-align: center;">We're open whenever you want us to be!</h3>
+
+            <h5 style="font-size: 16px; text-align: center;">..except night time</h5>
+
+            <div id="contactFlex">
+
+                <section>
+
+                    <h3>Give us a call</h3>
+
+                    <a href="tel:085 8872665"><img src="images/cal.png"> </a>
+                    <br>
+                    <a href="tel:085 8872665">085 8872665</a>
+
+                </section>
+
+                <section>
+
+                    <h3>Or email us</h3>
+                    <a href="mailto:info@dublinpaintball.ie"><img src="images/email.png"> </a>
+
+                    <a href="mailto:info@dublinpaintball.ie">info@dublinpaintball.ie</a>
+
+                </section>
+            </div>
+
+            <br>
+            <br>
+            <br>
+
+            <div id="directions">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2376.1803645442237!2d-6.331934!3d53.447362!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x486713b1b4a5ffdd%3A0x939af08b74bd9c75!2sCapital+Paintball!5e0!3m2!1sen!2s!4v1429618529359" width="100%" height="300" frameborder="0" style="border:0">
+
+                </iframe>
+
+                <h4>Directions</h4>
+
+                <a href="comgooglemaps://?center=46.414382,10.013988&mapmode=streetview">Hello</a>
+            <ol>
+                <li>Take Exit 5 off the M50 onto the N2 towards Ashbourne</li>
+                <br>
+                <li>Take Exit 2 off the N2 (marked for St. Margaret&#39;s)</li>
+                <br>
+
+                <li>Take the third exit off the roundabout (marked for St. Margaret&#39;s) </li>
+                <br>
+
+                <li>At the next roundabout take the first exit (marked for THE WARD CROSS)</li>
+                <br>
+
+                <li>After 1km take the third exit onto the R121 (marked for St. Margaret&#39;s)</li>
+                <br>
+
+                <li>After 750m we are on the Right in the NEWPARK Astro Grounds.</li>
+                <br>
+
+            </ol>
+
+
+		<div data-role="footer"
+			data-position="fixed"
+             data-theme="b"
+             data-id="vs_footer">
+			<div data-role="navbar">
+				<ul>
+                    <li>
+                        <a href="#home"
+                           data-transition="fade"
+                           data-role="button"
+                           data-icon="home"
+                        >Home</a>
+                    </li>
+
+                    <li>
+                        <a href="#prices"
+                           data-transition="fade"
+                           data-role="button"
+                           data-icon="tag"
+                        >Prices</a>
+                    </li>
+
+                    <li>
+                        <a href="#images"
+                           data-transition="fade"
+                           data-role="button"
+                           data-icon="grid"
+                        >Photos</a>
+                    </li>
+
+
+                    <li>
+                        <a href="#faq"
+                           data-transition="fade"
+                           data-role="button"
+                           data-icon="info"
+                        >FAQ</a>
+                    </li>
+
+
+                    <li>
+                        <a href="#contact"
+                           data-transition="fade"
+                           data-role="button"
+                           data-icon="phone"
+                        >Contact</a>
+                    </li>
+				</ul>
+			</div><!-- navbar -->
+		</div><!-- footer -->
+	</div><!-- page -->
+        </div>
+    </div>
+
+
+
+
+
+
+    <div id="payment"
+         data-role="page"
+         data-title="Payment">
+
+
+        <div data-role="content" align="center">
+
+
+
+
+            <div data-role="footer"
+             data-position="fixed"
+             data-theme="b"
+             data-id="vs_footer">
+            <div data-role="navbar">
+                <ul>
+                    <li>
+                        <a href="#home"
+                           data-transition="fade"
+                           data-role="button"
+                           data-icon="home"
+                        >Home</a>
+                    </li>
+
+                    <li>
+                        <a href="#prices"
+                           data-transition="fade"
+                           data-role="button"
+                           data-icon="tag"
+                        >Prices</a>
+                    </li>
+
+                    <li>
+                        <a href="#images"
+                           data-transition="fade"
+                           data-role="button"
+                           data-icon="grid"
+                        >Photos</a>
+                    </li>
+
+
+                    <li>
+                        <a href="#faq"
+                           data-transition="fade"
+                           data-role="button"
+                           data-icon="info"
+                        >FAQ</a>
+                    </li>
+
+
+                    <li>
+                        <a href="#contact"
+                           data-transition="fade"
+                           data-role="button"
+                           data-icon="phone"
+                        >Contact</a>
+                    </li>
+                </ul>
+            </div><!-- navbar -->
+        </div><!-- footer -->
+    </div><!-- page -->
+
+
+
+
+
+
+    <!--Info page-->
+
+    <div data-role="page"
+		id="info"
+		data-theme="e">
+
+		<div data-role="header">
+			<h1>About</h1>
+		</div>
+		<div data-role="content">
+
+
+            <script type="text/javascript">
+                jQuery(function($){
+                    function getWeather(){
+                        $.ajax('http://api.wunderground.com/api/c6dc8e785d943109/conditions/q/IE/Dublin.json', {
+                            dataType: 'jsonp',
+                            success: function(json) {
+                                $('div#city strong').text(json.current_observation.display_location.full)
+                                $('div#icon').html('<img src=' + json.current_observation.icon_url + '>')
+                                $('div#weather').text(json.current_observation.temperature_string + " " + json.current_observation.weather);
+                                $('div#time').text(json.current_observation.observation_time_rfc822);
+                            }
+                        });
+                    }
+                    $('a.get_weather').click(function(e) {
+                        e.preventDefault();
+                        $(this).hide();
+                        getWeather();
+                        $('#result').fadeIn(1000);
+                    });
+                    $('a.hide').click(function(e) {
+                        e.preventDefault();
+                        $('#result').hide();
+                        $('a.get_weather').show();
+                    })
+                })
+            </script>
+
+            <header class="seats-header">
+                <h1>Weather</h1>
+            </header>
+
+            <div><a href="#" class="get_weather">Get weather</a></div>
+            <div id="result" style="display: none">
+                <div id="icon"></div>
+                <div id="city"><strong></strong></div>
+                <div id="weather"></div>
+                <div id="time"></div>
+                <div><a href="#" class="hide">Hide</a>
+                </div>
+
+		</div>
+
+            <p style="text-align: center">This Web Application was produced by:</p>
+
+            <br>
+
+
+            <img src="images/Logo.png" width="100%">
+	</div>
+
+    </div>
+
+</body>
+</html>
